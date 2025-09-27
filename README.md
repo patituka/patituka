@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello there 👋 
+
+My name is Patricia.
+
+Software engineer experienced in Java, TypeScript, Angular, and React, currently learning C++ and Python. Passionate about artificial intelligence and eager to apply AI and machine learning to build innovative and impactful solutions.
 
 <!--
 **patituka/patituka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
